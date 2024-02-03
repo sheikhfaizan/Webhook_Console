@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Webhook_Console.Models
+namespace WebhookConsoleApp.Models
 {
     public static class Log
     {
